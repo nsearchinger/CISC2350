@@ -15,7 +15,7 @@
 			padding: 0;
 			background: #091930;
 		}
-		.site-container{
+		.site-container {
 			position: relative;
 			overflow: hidden;
 			position: relative;
@@ -24,6 +24,12 @@
 			padding-left: 40px;
 			font-family: 'Open Sans', serif;
 			margin-bottom: 5px; 
+		}
+		.site-container-text {
+			color:white;
+			padding-left: 40px;
+			font-family: 'Open Sans', serif;
+			text-decoration: none;  
 		}
 		#picturecontainer{
 			width: 100vw; 

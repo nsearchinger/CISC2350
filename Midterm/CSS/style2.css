@@ -95,7 +95,12 @@
 			background: #20344f;
 		}
 		
-		
+		.site-container-text {
+			color:white;
+			padding-left: 40px;
+			font-family: 'Open Sans', serif;
+			text-decoration: none;  
+		}
 		
 		.Nav{
 			background: #3f5c6d;
